@@ -19,8 +19,8 @@
 
 ![image](https://user-images.githubusercontent.com/74504370/148083944-b400697f-2650-4293-852d-8a5d407b1bef.png)
 
-This Website About cafe in university\
-You can reserve tables online
-In the future it will be improved:
-  You will be able to order to your place, room
-  we will add more dishes and drinks to menu
+###This Website About cafe in university\
+###You can reserve tables online
+###In the future it will be improved:
+  *You will be able to order to your place, room
+  *We will add more dishes and drinks to menu

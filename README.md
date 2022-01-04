@@ -24,3 +24,5 @@ You can reserve tables online
 In the future it will be improved:  
 * You will be able to order to your place, room  
 * We will add more dishes and drinks to menu
+
+# Done by: Nurak Karabekov, Bakbergen Beishenaliev
